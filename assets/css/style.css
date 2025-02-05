@@ -46,4 +46,8 @@ h2{
 .centobody{
     width: 100%;
 }
+.borderleft{
+    border-left: 1px solid gold;
+  
+}
    
